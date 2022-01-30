@@ -4,7 +4,7 @@ Pseudo people database which contains writing person, delete person by PESEL, ed
 ## compiling:
 To compile a program you should write:
 ```
-gcc ./main.c -o ./main
+gcc ./main.c -o main
 ```
 ## running programm:
 To run a program you should write:
